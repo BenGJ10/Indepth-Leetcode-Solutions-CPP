@@ -9,8 +9,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
-| [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) |
-
+| [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 
 ---
@@ -21,7 +20,6 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 |---------|------------|----------|
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Solution](./Two%20Pointers/11_Container_With_Most_Water.cpp) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Solution](./Two%20Pointers/15_Three_Sum.cpp) |
-
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
 
 ---
