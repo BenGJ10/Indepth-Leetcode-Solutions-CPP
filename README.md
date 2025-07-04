@@ -24,6 +24,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Prefix Sum
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](./Prefix%20Sum/238_Product_of_Array_Except_Self.cpp) |
+
+---
+
 ## Binary Search
 
 | Problem | Difficulty | Solution |
@@ -45,6 +52,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Solution](./Graphs/130_Surrounded_Regions.cpp) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Solution](./Graphs/133_Clone_Graph.cpp) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Solution](./Graphs/200_Number_of_Islands.cpp) |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
+| [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | [Solution](./Graphs/417_Pacific_Atlantic_Water_Flow.cpp) |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Solution](./Graphs/542_Matrix_01.cpp) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Solution](./Graphs/695_Max_Area_of_Island.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
