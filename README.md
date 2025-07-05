@@ -9,6 +9,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
+| [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 
@@ -59,6 +60,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Solution](./Graphs/695_Max_Area_of_Island.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
+| [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
+
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Solution](./Graphs/994_Rotting_Oranges.cpp) |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Solution](./Graphs/1020_Number_of_Enclaves.cpp) |
 
