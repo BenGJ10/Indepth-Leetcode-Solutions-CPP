@@ -64,3 +64,9 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Miscellaneous
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| Topological Sorting - DFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_DFS.cpp) |
+| Topological Sorting - BFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_BFS.cpp) |
