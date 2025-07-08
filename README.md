@@ -32,6 +32,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+# Sliding Window
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
+
+---
+
 ## Binary Search
 
 | Problem | Difficulty | Solution |
@@ -50,6 +57,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | [Solution](./Graphs/127_Word_Ladder.cpp) |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Solution](./Graphs/130_Surrounded_Regions.cpp) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Solution](./Graphs/133_Clone_Graph.cpp) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Solution](./Graphs/200_Number_of_Islands.cpp) |
@@ -73,3 +81,4 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 |---------|------------|----------|
 | Topological Sorting - DFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_DFS.cpp) |
 | Topological Sorting - BFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_BFS.cpp) |
+| Shortest Path in DAG | Hard | [Solution](./Miscellaneous/Shortest_Path_in_DAG.cpp) |
