@@ -35,6 +35,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 # Sliding Window
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](./Sliding%20Window/3_Longest_Substring_Without_Repeating_Characters.cpp) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
 
 ---
