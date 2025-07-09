@@ -70,7 +70,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Solution](./Graphs/542_Matrix_01.cpp) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Solution](./Graphs/695_Max_Area_of_Island.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
-| [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
+| [785. Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Solution](./Graphs/994_Rotting_Oranges.cpp) |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Solution](./Graphs/1020_Number_of_Enclaves.cpp) |
