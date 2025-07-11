@@ -38,7 +38,11 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](./Sliding%20Window/3_Longest_Substring_Without_Repeating_Characters.cpp) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Solution](./Sliding%20Window/424_Longest_Repeating_Character_Replacement.cpp) |
+| [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Solution](./Sliding%20Window/930_Binary_Subarrays_with_Sum.cpp) |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [Solution](./Sliding%20Window/1004_Max_Consecutive_Ones_III.cpp) |
+| [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | [Solution](./Sliding%20Window/1358_Number_of_Substrings_Containing_all_Three_Characters.cpp) |
+| [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Medium | [Solution](./Sliding%20Window/1423_Maximum_Points_Obtained_from_Cards.cpp) |
+
 
 ---
 
@@ -60,6 +64,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [Solution](./Graphs/126_Word_Ladder_II.cpp) |
 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | [Solution](./Graphs/127_Word_Ladder.cpp) |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Solution](./Graphs/130_Surrounded_Regions.cpp) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Solution](./Graphs/133_Clone_Graph.cpp) |
