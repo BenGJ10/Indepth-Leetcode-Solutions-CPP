@@ -96,6 +96,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
+| [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Solution](./Graphs/1631_Path_With_Minimum_Effort.cpp) |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Solution](./Graphs/743_Network_Delay_Time.cpp) |
 
 ---
 
