@@ -4,10 +4,11 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
-## Arrays
+## Arrays and Strings
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) 
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
@@ -36,6 +37,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](./Sliding%20Window/3_Longest_Substring_Without_Repeating_Characters.cpp) |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](./Sliding%20Window/76_Minimum_Window_Substring.cpp) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Solution](./Sliding%20Window/424_Longest_Repeating_Character_Replacement.cpp) |
 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Solution](./Sliding%20Window/930_Binary_Subarrays_with_Sum.cpp) |
@@ -61,7 +63,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
-## Graphs
+## BFS and DFS in Graphs
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -70,16 +72,30 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Solution](./Graphs/130_Surrounded_Regions.cpp) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Solution](./Graphs/133_Clone_Graph.cpp) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Solution](./Graphs/200_Number_of_Islands.cpp) |
-| [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
-| [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Solution](./Graphs/210_Course_Schedule_II.cpp) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | [Solution](./Graphs/417_Pacific_Atlantic_Water_Flow.cpp) |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Solution](./Graphs/542_Matrix_01.cpp) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Solution](./Graphs/695_Max_Area_of_Island.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
 | [785. Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
-| [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
+| [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | [Solution](./Graphs/909_Snakes_and_Ladders.cpp) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Solution](./Graphs/994_Rotting_Oranges.cpp) |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Solution](./Graphs/1020_Number_of_Enclaves.cpp) |
+
+---
+
+## Topological Sorting in Graphs
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
+| [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Solution](./Graphs/210_Course_Schedule_II.cpp) |
+| [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
+
+---
+
+## Shortest Path Algorithms in Graphs
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
 
 ---
 
@@ -90,3 +106,4 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Topological Sorting - DFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_DFS.cpp) |
 | Topological Sorting - BFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_BFS.cpp) |
 | Shortest Path in DAG | Hard | [Solution](./Miscellaneous/Shortest_Path_in_DAG.cpp) |
+| Dijkstra's Algorithm | Medium | [Solution](./Miscellaneous/Dijkstra's_Algorithm.cpp) |
