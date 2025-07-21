@@ -96,10 +96,12 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Shortest Path Algorithms in Graphs
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
-| [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Solution](./Graphs/1631_Path_With_Minimum_Effort.cpp) |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Solution](./Graphs/743_Network_Delay_Time.cpp) |
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Solution](./Graphs/787_Cheapest_Flights_Within_K_Stops.cpp) |
+| [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
+| [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Solution](./Graphs/1631_Path_With_Minimum_Effort.cpp) |
+| [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [Solution](./Graphs/1976_Number_of_Ways_to_Arrive_Dijkstra.cpp) |
+
 
 ---
 
@@ -111,3 +113,4 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Topological Sorting - BFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_BFS.cpp) |
 | Shortest Path in DAG | Hard | [Solution](./Miscellaneous/Shortest_Path_in_DAG.cpp) |
 | Dijkstra's Algorithm | Medium | [Solution](./Miscellaneous/Dijkstra's_Algorithm.cpp) |
+| Bellmann Ford Algorithm | Medium | [Solution](./Miscellaneous/Bellmann_Ford_Algorithm.cpp) |
