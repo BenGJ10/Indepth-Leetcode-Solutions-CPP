@@ -101,7 +101,6 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Solution](./Graphs/787_Cheapest_Flights_Within_K_Stops.cpp) |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
 | [1334. City With the Smallest Number of Neighbors at a Threshold](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Solution](./Graphs/1334_City_with_the_Smallest_Number_of_Neighbors.cpp) |
-
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Solution](./Graphs/1631_Path_With_Minimum_Effort.cpp) |
 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [Solution](./Graphs/1976_Number_of_Ways_to_Arrive_Dijkstra.cpp) |
 
