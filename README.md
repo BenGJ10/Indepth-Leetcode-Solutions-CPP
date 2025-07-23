@@ -4,15 +4,24 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
-## Arrays and Strings
+## Arrays 
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) 
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
+
+---
+
+## Strings
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](./Strings/49_Group_Anagrams.cpp) |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](./Strings/151_Reverse_Words_in_String.cpp) |
 
 ---
 
@@ -100,7 +109,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Solution](./Graphs/743_Network_Delay_Time.cpp) |
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Solution](./Graphs/787_Cheapest_Flights_Within_K_Stops.cpp) |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
-| [1334. City With the Smallest Number of Neighbors at a Threshold](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Solution](./Graphs/1334_City_with_the_Smallest_Number_of_Neighbors.cpp) |
+| [1334. City with the Smallest Number of Neighbors](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Solution](./Graphs/1334_City_with_the_Smallest_Number_of_Neighbors.cpp) |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Solution](./Graphs/1631_Path_With_Minimum_Effort.cpp) |
 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [Solution](./Graphs/1976_Number_of_Ways_to_Arrive_Dijkstra.cpp) |
 
