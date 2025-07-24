@@ -22,6 +22,10 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](./Strings/49_Group_Anagrams.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](./Strings/151_Reverse_Words_in_String.cpp) |
+| [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Solution](./Strings/290_Word_Pattern.cpp) |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](./Strings/392_Is_Subsequence.cpp) |
+| [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Solution](./Strings/451_Sort_Characters_by_Frequency.cpp) |
+
 
 ---
 
