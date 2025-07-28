@@ -1,6 +1,6 @@
 # LeetCode C++ Solutions
 
-This repository contains my C++ solutions for various LeetCode problems, organized by category. Each entry links to the original problem, shows its difficulty, and links to the solution file.
+This repository contains my C++ solutions for various LeetCode problems, organized by category. Each entry links to the original problem, shows its difficulty, and links to the solution file. This README serves as a quick reference guide to navigate through the solutions. The solutions are categorized based on the type of problem or algorithm used. Each solution file has complete information about the problem, including the problem statement, constraints, and the implemented solution.
 
 ---
 
@@ -48,7 +48,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
-# Sliding Window
+## Sliding Window
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](./Sliding%20Window/3_Longest_Substring_Without_Repeating_Characters.cpp) |
@@ -122,17 +122,25 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
-## Miscellaneous
+## Minimum Spanning Tree & Disjoint Set in Graphs
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| Topological Sorting - DFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_DFS.cpp) |
-| Topological Sorting - BFS | Medium | [Solution](./Miscellaneous/Topological_Sorting_BFS.cpp) |
-| Shortest Path in DAG | Hard | [Solution](./Miscellaneous/Shortest_Path_in_DAG.cpp) |
-| Dijkstra's Algorithm | Medium | [Solution](./Miscellaneous/Dijkstra's_Algorithm.cpp) |
-| Bellmann Ford Algorithm | Medium | [Solution](./Miscellaneous/Bellmann_Ford_Algorithm.cpp) |
-| Floyd Warshall (APSP) | Medium | [Solution](./Miscellaneous/Floyd_Warshall_Algorithm.cpp) |
-| Prim's Algorithm (MST)| Medium | [Solution](./Miscellaneous/Prim's_Algorithm.cpp) |
-| Disjoint Set (Union by Rank) | Medium | [Solution](./Miscellaneous/DisjointSet_Union_by_Rank.cpp) |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Solution](./Graphs/547_Number_of_Provinces.cpp) |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | [Solution](./Graphs/684_Redundant_Connection.cpp) |
+---
+
+## Graph Miscellaneous
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| Topological Sorting - DFS | Medium | [Solution](./Graph%20Miscellaneous/Topological_Sorting_DFS.cpp) |
+| Topological Sorting - BFS | Medium | [Solution](./Graph%20Miscellaneous/Topological_Sorting_BFS.cpp) |
+| Shortest Path in DAG | Hard | [Solution](./Graph%20Miscellaneous/Shortest_Path_in_DAG.cpp) |
+| Dijkstra's Algorithm | Medium | [Solution](./Graph%20Miscellaneous/Dijkstra's_Algorithm.cpp) |
+| Bellmann Ford Algorithm | Medium | [Solution](./Graph%20Miscellaneous/Bellmann_Ford_Algorithm.cpp) |
+| Floyd Warshall (APSP) | Medium | [Solution](.Graph%20Miscellaneous/Floyd_Warshall_Algorithm.cpp) |
+| Prim's Algorithm (MST)| Medium | [Solution](./Graph%20Miscellaneous/Prim's_Algorithm.cpp) |
+| Disjoint Set (Union by Rank) | Medium | [Solution](./Graph%20Miscellaneous/DisjointSet_Union_by_Rank.cpp) |
 
 
