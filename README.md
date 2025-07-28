@@ -8,6 +8,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](./Arrays/41_First_Missing_Positive.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
@@ -131,3 +132,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Dijkstra's Algorithm | Medium | [Solution](./Miscellaneous/Dijkstra's_Algorithm.cpp) |
 | Bellmann Ford Algorithm | Medium | [Solution](./Miscellaneous/Bellmann_Ford_Algorithm.cpp) |
 | Floyd Warshall (APSP) | Medium | [Solution](./Miscellaneous/Floyd_Warshall_Algorithm.cpp) |
+| Prim's Algorithm (MST)| Medium | [Solution](./Miscellaneous/Prim's_Algorithm.cpp) |
+| Disjoint Set (Union by Rank) | Medium | [Solution](./Miscellaneous/DisjointSet_Union_by_Rank.cpp) |
+
+
