@@ -128,6 +128,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 |---------|------------|----------|
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Solution](./Graphs/547_Number_of_Provinces.cpp) |
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | [Solution](./Graphs/684_Redundant_Connection.cpp) |
+| [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [Solution](./Graphs/947_Most_Stones%20Removed_with_Same_Row_or_Column.cpp) |
+| [1319. Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Solution](./Graphs/1319_Number_of_Operations_to_Make_Network_Connected.cpp) |
 ---
 
 ## Graph Miscellaneous
