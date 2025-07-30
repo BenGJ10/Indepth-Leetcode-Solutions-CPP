@@ -39,6 +39,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Solution](./Two%20Pointers/11_Container_With_Most_Water.cpp) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Solution](./Two%20Pointers/15_Three_Sum.cpp) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
+| [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](./Two%20Pointers/80_Remove_Duplicates_Sorted_ArrayII.cpp) |
+
 
 ---
 
