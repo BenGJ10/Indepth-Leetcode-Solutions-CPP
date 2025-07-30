@@ -92,6 +92,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Solution](./Graphs/433_Minimum_Genetic_Mutation.cpp) |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Solution](./Graphs/542_Matrix_01.cpp) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Solution](./Graphs/695_Max_Area_of_Island.cpp) |
+| [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Solution](./Graphs/752_Open_the_Lock.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
 | [785. Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | [Solution](./Graphs/909_Snakes_and_Ladders.cpp) |
