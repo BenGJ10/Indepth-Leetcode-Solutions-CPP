@@ -21,7 +21,6 @@ Space Complexity: O(1) — in-place compression.
 
 #include <iostream>
 using namespace std;
-
 class Solution {
 public:
     int compress(vector<char>& chars) {

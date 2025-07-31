@@ -24,7 +24,6 @@ Space Complexity: O(m) — for storing the current term.
 
 #include <iostream>
 using namespace std;
-
 class Solution {
 public:
     string countAndSay(int n) {

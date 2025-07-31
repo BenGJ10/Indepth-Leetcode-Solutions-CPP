@@ -23,12 +23,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Solution](./Strings/8_String_to_Integer_(atoi).cpp) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](./Strings/12_Integer_to_Roman.cpp) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
+| [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Solution](./Strings/38_Count_and_Say.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](./Strings/49_Group_Anagrams.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](./Strings/151_Reverse_Words_in_String.cpp) |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Solution](./Strings/205_Isomorphic_Strings.cpp) |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Solution](./Strings/290_Word_Pattern.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](./Strings/392_Is_Subsequence.cpp) |
-| [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./Strings/443_String_Compression.cpp) |
+| [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./Stwrings/443_String_Compression.cpp) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Solution](./Strings/451_Sort_Characters_by_Frequency.cpp) |
 
 
