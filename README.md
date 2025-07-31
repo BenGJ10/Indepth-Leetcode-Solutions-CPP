@@ -28,6 +28,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Solution](./Strings/205_Isomorphic_Strings.cpp) |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Solution](./Strings/290_Word_Pattern.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](./Strings/392_Is_Subsequence.cpp) |
+| [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./Strings/443_String_Compression.cpp) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Solution](./Strings/451_Sort_Characters_by_Frequency.cpp) |
 
 
