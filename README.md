@@ -20,6 +20,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Solution](./Strings/8_String_to_Integer_(atoi).cpp) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](./Strings/12_Integer_to_Roman.cpp) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](./Strings/49_Group_Anagrams.cpp) |
