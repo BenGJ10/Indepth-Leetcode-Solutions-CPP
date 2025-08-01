@@ -43,6 +43,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [Solution](./Two%20Pointers/15_Three_Sum.cpp) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](./Two%20Pointers/80_Remove_Duplicates_Sorted_ArrayII.cpp) |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](./Two%20Pointers/167_Two_Sum_Sorted.cpp) |
 
 
 ---
@@ -51,6 +52,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](./Prefix%20Sum/238_Product_of_Array_Except_Self.cpp) |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Solution](./Prefix%20Sum/724_Find_Pivot_Index.cpp) |
 
 ---
 
