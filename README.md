@@ -66,6 +66,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](./Sliding%20Window/76_Minimum_Window_Substring.cpp) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Solution](./Sliding%20Window/424_Longest_Repeating_Character_Replacement.cpp) |
+| [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | [Solution](./Sliding%20Window/713_Subarray_Product_Less_Than_K.cpp) |
 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Solution](./Sliding%20Window/930_Binary_Subarrays_with_Sum.cpp) |
 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | [Solution](./Sliding%20Window/992_Subarrays_with_K_Different_Integers.cpp) |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [Solution](./Sliding%20Window/1004_Max_Consecutive_Ones_III.cpp) |
