@@ -53,6 +53,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 |---------|------------|----------|
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](./Prefix%20Sum/238_Product_of_Array_Except_Self.cpp) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Solution](./Prefix%20Sum/523_Continuous_Subarray_Sum.cpp) |
+| [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](./Prefix%20Sum/525_Contiguous_Array.cpp) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](./Prefix%20Sum/560_Subarray_Sums_Equals_K.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Solution](./Prefix%20Sum/724_Find_Pivot_Index.cpp) |
 
