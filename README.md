@@ -9,6 +9,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](./Arrays/41_First_Missing_Positive.cpp) |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./Arrays/53_Maximum_Subarray.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
@@ -52,7 +53,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](./Prefix%20Sum/238_Product_of_Array_Except_Self.cpp) |
-| [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Solution](./PrefixSum/304_Range_Sum_Query_2D.cpp) |
+| [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Solution](./Prefix%20Sum/304_Range_Sum_Query_2D.cpp) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Solution](./Prefix%20Sum/523_Continuous_Subarray_Sum.cpp) |
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](./Prefix%20Sum/525_Contiguous_Array.cpp) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](./Prefix%20Sum/560_Subarray_Sums_Equals_K.cpp) |
