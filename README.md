@@ -74,7 +74,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [Solution](./Sliding%20Window/1004_Max_Consecutive_Ones_III.cpp) |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | [Solution](./Sliding%20Window/1358_Number_of_Substrings_Containing_all_Three_Characters.cpp) |
 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Medium | [Solution](./Sliding%20Window/1423_Maximum_Points_Obtained_from_Cards.cpp) |
-
+| [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | [Solution](./Sliding%20Window/2461_MaxSum_Distinct_Subarrays_With_Length_K.cpp) |
 
 ---
 
