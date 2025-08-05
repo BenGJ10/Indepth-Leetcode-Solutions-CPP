@@ -92,6 +92,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Stacks and Queues
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Solution](./Stack%20and%20Queues/239_Sliding_Window_Maximum.cpp) |
+
+---
+
 ## BFS and DFS in Graphs
 
 | Problem | Difficulty | Solution |
