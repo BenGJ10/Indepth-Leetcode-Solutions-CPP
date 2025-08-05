@@ -95,6 +95,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Stacks and Queues
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](./Stack%20and%20Queues/20_Valid_Parentheses.cpp) |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Solution](./Stack%20and%20Queues/239_Sliding_Window_Maximum.cpp) |
 
 ---
