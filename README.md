@@ -99,6 +99,16 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Stacks and Queues Implementation
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| Stack using Arrays | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Stack_using_Array.cpp) |
+| Queue using Arrays | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Queue_using_Array.cpp) |
+| Stack using Queue | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Stack_using_Queue.cpp) |
+| Queue using Stack | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Queue_using_Stacks.cpp) |
+
+---
+
 ## BFS and DFS in Graphs
 
 | Problem | Difficulty | Solution |
