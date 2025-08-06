@@ -100,6 +100,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Solution](./Stack%20and%20Queues/239_Sliding_Window_Maximum.cpp) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Solution](./Stack%20and%20Queues/496_Next_Greater_Element_I.cpp) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [Solution](./Stack%20and%20Queues/503_Next_Greater_Element_II.cpp) |
+| [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Solution](./Stack%20and%20Queues/907_Sum_of_Subarray_Minimums.cpp) |
 
 ---
 
@@ -110,7 +111,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Queue using Arrays | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Queue_using_Array.cpp) |
 | Stack using Queue | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Stack_using_Queue.cpp) |
 | Queue using Stack | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Queue_using_Stacks.cpp) |
-
+| Previous Smaller Element| Medium | [Solution](./Stack%20and%20Q%20Implementations/Previous_Smaller_Element.cpp) |
 ---
 
 ## BFS and DFS in Graphs
