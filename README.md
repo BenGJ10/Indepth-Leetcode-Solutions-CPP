@@ -102,6 +102,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [Solution](./Stack%20and%20Queues/503_Next_Greater_Element_II.cpp) |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Solution](./Stack%20and%20Queues/739_Daily_Temperatures.cpp) |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Solution](./Stack%20and%20Queues/907_Sum_of_Subarray_Minimums.cpp) |
+| [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Solution](./Stack%20and%20Queues/2104_Sum_of_Subarray_Ranges.cpp) |
 
 ---
 
