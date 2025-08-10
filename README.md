@@ -99,6 +99,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Solution](./Stack%20and%20Queues/84_Largest_Rectangle_in_Histogram.cpp) |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Solution](./Stack%20and%20Queues/85_Maximal_Rectangle.cpp) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Solution](./Stack%20and%20Queues/155_Min_Stack.cpp) |
+| [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Solution](./Stack%20and%20Queues/224_Basic_Calculator.cpp) |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Solution](./Stack%20and%20Queues/239_Sliding_Window_Maximum.cpp) |
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Solution](./Stack%20and%20Queues/402_Remove_K_Digits.cpp) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Solution](./Stack%20and%20Queues/496_Next_Greater_Element_I.cpp) |
