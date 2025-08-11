@@ -168,6 +168,7 @@ int lengthOfLongestSubstring(string s) {
 ---
  
 ### 4. Partitioning Array
+
 This pattern involves partitioning an array into two parts based on a condition, often used in problems that require rearranging elements or finding specific partitions. Partition elements based on a pivot or condition in-place using two pointers.
 
 #### Idea and Approach
