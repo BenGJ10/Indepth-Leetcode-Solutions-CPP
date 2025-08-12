@@ -98,6 +98,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](./Stack%20and%20Queues/20_Valid_Parentheses.cpp) |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Solution](./Stack%20and%20Queues/84_Largest_Rectangle_in_Histogram.cpp) |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Solution](./Stack%20and%20Queues/85_Maximal_Rectangle.cpp) |
+| [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Solution](./Stack%20and%20Queues/150_Reverse_Polish_Notation.cpp) |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Solution](./Stack%20and%20Queues/155_Min_Stack.cpp) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Solution](./Stack%20and%20Queues/224_Basic_Calculator.cpp) |
 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | [Solution](./Stack%20and%20Queues/227_Basic_Calculator_II.cpp) |
@@ -121,6 +122,15 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Stack using Queue | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Stack_using_Queue.cpp) |
 | Queue using Stack | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Queue_using_Stacks.cpp) |
 | Previous Smaller Element| Medium | [Solution](./Stack%20and%20Q%20Implementations/Previous_Smaller_Element.cpp) |
+
+---
+
+## Recursion and Backtracking
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](./Recursion/50_Pow(x,n).cpp) |
+| [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | [Solution](./Recursion/1922_Count_Good_Numbers.cpp) |
+
 ---
 
 ## BFS and DFS in Graphs
