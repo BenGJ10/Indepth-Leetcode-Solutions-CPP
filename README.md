@@ -128,8 +128,10 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Recursion and Backtracking
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](./Recursion/39_Combination_Sum.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](./Recursion/50_Pow(x,n).cpp) |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](./Recursion/90_Subsets_II.cpp) |
+| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Solution](./Recursion/216_Combination_Sum_III.cpp) |
 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | [Solution](./Recursion/1922_Count_Good_Numbers.cpp) |
 
 ---
