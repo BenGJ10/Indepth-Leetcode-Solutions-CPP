@@ -129,6 +129,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](./Recursion/50_Pow(x,n).cpp) |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](./Recursion/90_Subsets_II.cpp) |
 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | [Solution](./Recursion/1922_Count_Good_Numbers.cpp) |
 
 ---
