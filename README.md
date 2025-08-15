@@ -128,7 +128,9 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Recursion and Backtracking
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Solution](./Recursion/17_Letter_Combinations_of_Phone_Number.cpp.cpp) |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](./Recursion/39_Combination_Sum.cpp) |
+| [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Solution](./Recursion/40_Combination_Sum_II.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](./Recursion/50_Pow(x,n).cpp) |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](./Recursion/90_Subsets_II.cpp) |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Solution](./Recursion/216_Combination_Sum_III.cpp) |
