@@ -1,5 +1,5 @@
 /*
-Biweekly Contest 162: Count Islands with Sum Divisible by K
+Biweekly Contest 161: Count Islands with Sum Divisible by K
 
 Problem:  
 Given a 2D grid of positive integers, count the number of islands (connected components of non-zero values)  

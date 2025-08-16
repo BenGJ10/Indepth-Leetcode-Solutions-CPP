@@ -1,5 +1,5 @@
 /*
-Biweekly Contest 162: Prime Index Array Split
+Biweekly Contest 161: Prime Index Array Split
 
 Problem:  
 Given an array `nums`, split elements at **prime indices** and **non-prime indices**.  
