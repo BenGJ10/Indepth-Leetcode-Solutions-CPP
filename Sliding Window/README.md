@@ -164,8 +164,56 @@ string minWindow(string s, string t) {
 
 
 ---
+### 4. Exactly K (Convert to AtMost)
 
-### 4. Product / Sum Constraints (Multiplicative)
+Some problems ask for exactly k occurrences of something (e.g., exactly k odd numbers, exactly k distinct characters, etc.).
+Directly counting "exactly k" is hard, but we can use this key trick:
+`exactly(k) = atMost(k) − atMost(k-1)`
+
+#### Idea and Approach
+
+- Define atMost(k) = number of subarrays with at most k occurrences of the property (e.g., odds, distinct chars).
+
+- Then:
+
+    - atMost(k) counts all subarrays with 0,1,2,…,k occurrences.
+
+    - atMost(k-1) counts all subarrays with 0,1,2,…,(k-1) occurrences.
+
+- Subtracting gives the count of subarrays with exactly k.
+
+#### C++ Example (Count Subarrays with Exactly K Odd Numbers)
+```cpp
+class Solution {
+public:
+    int atMost(vector<int>& nums, int k) {
+        int left = 0, count = 0, oddCount = 0;
+        for (int right = 0; right < nums.size(); right++) {
+            oddCount += nums[right] % 2;     
+            while (oddCount > k) {
+                oddCount -= nums[left++] % 2;
+            }
+            count += right - left + 1;       
+        }
+        return count;
+    }
+
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return atMost(nums, k) - atMost(nums, k - 1);
+    }
+};
+```
+---
+#### Important Problems
+[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+[1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+[930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+
+---
+
+### 5. Product / Sum Constraints (Multiplicative)
 
 For problems like Subarray Product Less Than K, instead of sum constraints,
 we maintain a product and shrink window when the product exceeds the limit.
