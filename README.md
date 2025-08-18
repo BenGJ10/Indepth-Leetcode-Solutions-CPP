@@ -16,6 +16,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](./Arrays/268_Missing_Number.cpp) |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](./Arrays/287_Find_Duplicate_Number.cpp) |
+| [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Solution](./Arrays/1752_Array__Sorted_and_Rotated.cpp) |
 
 ---
 
