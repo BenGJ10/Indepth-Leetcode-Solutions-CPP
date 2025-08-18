@@ -12,8 +12,10 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./Arrays/53_Maximum_Subarray.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
-| [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) 
+| [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](./Arrays/268_Missing_Number.cpp) |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
+| [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](./Arrays/287_Find_Duplicate_Number.cpp) |
 
 ---
 
