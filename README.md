@@ -18,7 +18,9 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](./Arrays/268_Missing_Number.cpp) |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](./Arrays/287_Find_Duplicate_Number.cpp) |
+| [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Solution](./Arrays/442_Find_all_Duplicates_in_Array.cpp) |
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Solution](./Arrays/1752_Array__Sorted_and_Rotated.cpp) |
+| [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Solution](./Arrays/2149_Arrange_Elements_by_Sign.cpp) |
 | [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium | [Solution](./Arrays/2615_Sum_of_Distances.cpp) |
 
 ---
