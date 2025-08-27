@@ -11,7 +11,6 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](./Arrays/41_First_Missing_Positive.cpp) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./Arrays/53_Maximum_Subarray.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
-| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](./Arrays/73_Set_Matrix_Zeroes.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](./Arrays/128_Longest_Consecutive_Sequence.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) |
@@ -44,6 +43,16 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Matirx
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Solution](./Matrix/54_Spiral_Matrix.cpp) |
+| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Solution](./Matrix/59_Spiral_Matrix_II.cpp) |
+| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](./Matrix/73_Set_Matrix_Zeroes.cpp) |
+
+---
+
 ## Two Pointers
 
 | Problem | Difficulty | Solution |
@@ -53,7 +62,6 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](./Two%20Pointers/80_Remove_Duplicates_Sorted_ArrayII.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](./Two%20Pointers/167_Two_Sum_Sorted.cpp) |
-
 
 ---
 
