@@ -47,10 +47,12 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Solution](./Matrix/48_Rotate_Image.cpp) |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Solution](./Matrix/54_Spiral_Matrix.cpp) |
 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Solution](./Matrix/59_Spiral_Matrix_II.cpp) |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](./Matrix/73_Set_Matrix_Zeroes.cpp) |
-
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](./Matrix/74_Search_a_2D_Matrix.cpp) |
+| [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Solution](./Matrix/867_Transpose_Matrix.cpp) |
 ---
 
 ## Two Pointers
