@@ -108,7 +108,9 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Solution](./Binary%20Search/162_Find_Peak_Element.cpp) |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [Solution](./Binary%20Search/540_Single_Element_in_Sorted_Array.cpp) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](./Binary%20Search/875_Koko_eating_Bananas.cpp) |
+| [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Solution](./Binary%20Search/1482_Minimum_Days_to_make_Bouquets.cpp) |
 | [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | Medium | [Solution](./Binary%20Search//1901_Find_Peak_Element_II.cpp) |
+| [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | [Solution](./Binary%20Search/2300_Pairs_of_Spells_and_Potions.cpp) |
 ---
 
 ## Stacks and Queues
