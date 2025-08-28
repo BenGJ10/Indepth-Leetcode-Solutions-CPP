@@ -108,7 +108,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Solution](./Binary%20Search/162_Find_Peak_Element.cpp) |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [Solution](./Binary%20Search/540_Single_Element_in_Sorted_Array.cpp) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](./Binary%20Search/875_Koko_eating_Bananas.cpp) |
-
+| [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | Medium | [Solution](./Binary%20Search//1901_Find_Peak_Element_II.cpp) |
 ---
 
 ## Stacks and Queues
