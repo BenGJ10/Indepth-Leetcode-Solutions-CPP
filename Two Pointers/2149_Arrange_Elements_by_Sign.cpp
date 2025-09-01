@@ -13,7 +13,7 @@ Constraints:
 - Equal count of positive and negative numbers
 
 -------------------------------------------------------
-Approach:
+Approach 1:
 - Create an answer vector of size n.
 - Maintain two pointers:
     - pos = 0 → to place positive numbers at even indices
@@ -24,6 +24,15 @@ Approach:
 
 Time Complexity: O(n)  
 Space Complexity: O(n) (for result vector)
+
+Approach 2:
+- Use two queues/vectors:
+  - Store all positives in one array.
+  - Store all negatives in another array.
+- Then merge them alternately.
+- Time Complexity: O(n)
+- Space Complexity: O(n) (extra arrays)
+
 */
 
 #include <iostream>
