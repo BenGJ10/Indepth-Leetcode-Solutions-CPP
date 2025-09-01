@@ -11,6 +11,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](./Arrays/41_First_Missing_Positive.cpp) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./Arrays/53_Maximum_Subarray.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](./Arrays/75_Sort_Colors.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](./Arrays/128_Longest_Consecutive_Sequence.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Solution](./Arrays/189_Rotate_Array.cpp) |
@@ -18,10 +19,10 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](./Arrays/268_Missing_Number.cpp) |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](./Arrays/287_Find_Duplicate_Number.cpp) |
+| [324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | [Solution](./Arrays/324_Wiggle_Sort_II.cpp) |
 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Solution](./Arrays/442_Find_all_Duplicates_in_Array.cpp) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Solution](./Arrays/485_Max_Consecutive_Ones.cpp) |
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Solution](./Arrays/1752_Array__Sorted_and_Rotated.cpp) |
-| [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Solution](./Arrays/2149_Arrange_Elements_by_Sign.cpp) |
 | [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium | [Solution](./Arrays/2615_Sum_of_Distances.cpp) |
 
 ---
@@ -66,7 +67,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](./Two%20Pointers/80_Remove_Duplicates_Sorted_ArrayII.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](./Two%20Pointers/167_Two_Sum_Sorted.cpp) |
-
+| [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Solution](./Two%20Pointers/2149_Arrange_Elements_by_Sign.cpp) |
 ---
 
 ## Prefix Sum
