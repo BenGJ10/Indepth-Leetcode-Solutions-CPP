@@ -105,6 +105,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Solution](./Binary%20Search/4_Median_of_Two_Sorted_Arrays.cpp) |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Easy | [Solution](./Binary%20Search/34_First_and_Last_position_of_Element.cpp) |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Solution](./Binary%20Search/69_Sqrt(x).cpp) |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Solution](./Binary%20Search/81_Search_in_Rotated_Search_Array_II.cpp) |
