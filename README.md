@@ -118,6 +118,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Solution](./Binary%20Search/1552_Magnetic_Force_Between_Two_Balls.cpp) |
 | [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | Medium | [Solution](./Binary%20Search//1901_Find_Peak_Element_II.cpp) |
 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | [Solution](./Binary%20Search/2300_Pairs_of_Spells_and_Potions.cpp) |
+| [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | Medium | [Solution](./Binary%20Search/2517_Max_Tastiness_of_Candy_Basket.cpp) |
 ---
 
 ## Stacks and Queues
