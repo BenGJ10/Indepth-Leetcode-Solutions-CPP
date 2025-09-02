@@ -67,6 +67,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](./Two%20Pointers/42_Trapping_Rain_Water.cpp) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](./Two%20Pointers/80_Remove_Duplicates_Sorted_ArrayII.cpp) |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](./Two%20Pointers/167_Two_Sum_Sorted.cpp) |
+| [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | [Solution](./Two%20Pointers/922_Sort_Array_by_Parity_II.cpp) |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Solution](./Two%20Pointers/2149_Arrange_Elements_by_Sign.cpp) |
 ---
 
