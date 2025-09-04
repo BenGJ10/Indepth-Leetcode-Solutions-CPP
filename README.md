@@ -118,6 +118,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](./Binary%20Search/1011_Capacity_to_Ship_Packages_within_D_Days.cpp) |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Solution](./Binary%20Search/1482_Minimum_Days_to_make_Bouquets.cpp) |
  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Solution](./Binary%20Search/1552_Magnetic_Force_Between_Two_Balls.cpp) |
+ | [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium | [Solution](./Binary%20Search/1870_Minimum_Speed_to_Arrive_on_Time.cpp) |
 | [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | Medium | [Solution](./Binary%20Search//1901_Find_Peak_Element_II.cpp) |
 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | [Solution](./Binary%20Search/2300_Pairs_of_Spells_and_Potions.cpp) |
 | [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | Medium | [Solution](./Binary%20Search/2517_Max_Tastiness_of_Candy_Basket.cpp) |
