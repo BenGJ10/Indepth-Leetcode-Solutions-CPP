@@ -159,6 +159,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 
 ---
 
+## Linked Lists
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](./Linked%20Lists/206_Reverse_Linked_List.cpp) |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](./Linked%20Lists/876_Middle_of_Linked_List.cpp) |
+---
+
 ## Recursion and Backtracking
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
