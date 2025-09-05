@@ -162,6 +162,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Linked Lists
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Solution](./Linked%20Lists/19_Remove_Nth_Node_from_End_of_List.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](./Linked%20Lists/206_Reverse_Linked_List.cpp) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Solution](./Linked%20Lists/237_Delete_Node_in_Linked_List.cpp) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](./Linked%20Lists/876_Middle_of_Linked_List.cpp) |
