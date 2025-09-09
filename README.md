@@ -114,6 +114,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Solution](./Binary%20Search/162_Find_Peak_Element.cpp) |
 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Solution](./Binary%20Search/410_Split_Array_Largest_Sum.cpp) |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [Solution](./Binary%20Search/540_Single_Element_in_Sorted_Array.cpp) |
+| [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Solution](./Binary%20Search/744_Smallest_Letter_Greater_than_Target.cpp) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](./Binary%20Search/875_Koko_eating_Bananas.cpp) |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](./Binary%20Search/1011_Capacity_to_Ship_Packages_within_D_Days.cpp) |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Solution](./Binary%20Search/1482_Minimum_Days_to_make_Bouquets.cpp) |
