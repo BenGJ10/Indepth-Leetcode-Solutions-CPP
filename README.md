@@ -165,6 +165,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 |---------|------------|----------|
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Solution](./Linked%20Lists/19_Remove_Nth_Node_from_End_of_List.cpp) |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Solution](./Linked%20Lists/23_Merge_K_Sorted_Lists.cpp) |
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Solution](./Linked%20Lists/92_Reverse_Linked_List_II.cpp) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](./Linked%20Lists/141_Linked_List_Cycl  e.cpp) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Solution](./Linked%20Lists/142_Linked_List_Cycle_II.cpp) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Solution](./Linked%20Lists/143_Reorder_List.cpp) |
