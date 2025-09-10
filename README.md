@@ -171,6 +171,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](./Linked%20Lists/141_Linked_List_Cycle.cpp) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Solution](./Linked%20Lists/142_Linked_List_Cycle_II.cpp) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Solution](./Linked%20Lists/143_Reorder_List.cpp) |
+| [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | [Solution](./Linked%20Lists/148_Sort_List.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](./Linked%20Lists/206_Reverse_Linked_List.cpp) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Solution](./Linked%20Lists/237_Delete_Node_in_Linked_List.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Solution](./Linked%20Lists/328_Odd_Even_Linked_List.cpp) |
