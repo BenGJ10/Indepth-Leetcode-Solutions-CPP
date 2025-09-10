@@ -168,6 +168,8 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Solution](./Linked%20Lists/2_Add_Two_Numbers.cpp) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Solution](./Linked%20Lists/19_Remove_Nth_Node_from_End_of_List.cpp) |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Solution](./Linked%20Lists/23_Merge_K_Sorted_Lists.cpp) |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Solution](./Linked%20Lists/61_Rotate_List.cpp) |
+| [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [Solution](./Linked%20Lists/86_Partition_List.cpp) |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Solution](./Linked%20Lists/92_Reverse_Linked_List_II.cpp) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](./Linked%20Lists/141_Linked_List_Cycle.cpp) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Solution](./Linked%20Lists/142_Linked_List_Cycle_II.cpp) |
