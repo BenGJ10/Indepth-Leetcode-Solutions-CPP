@@ -70,6 +70,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](./Two%20Pointers/167_Two_Sum_Sorted.cpp) |
 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | [Solution](./Two%20Pointers/922_Sort_Array_by_Parity_II.cpp) |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Solution](./Two%20Pointers/2149_Arrange_Elements_by_Sign.cpp) |
+| [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Solution](./Two%20Pointers/2161_Partition_Array_with_Pivot.cpp) |
 ---
 
 ## Prefix Sum
@@ -172,6 +173,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Solution](./Linked%20Lists/142_Linked_List_Cycle_II.cpp) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Solution](./Linked%20Lists/143_Reorder_List.cpp) |
 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | [Solution](./Linked%20Lists/148_Sort_List.cpp) |
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Solution](./Linked%20Lists/160_Intersection_of_Two_Linked_Lists.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](./Linked%20Lists/206_Reverse_Linked_List.cpp) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Solution](./Linked%20Lists/237_Delete_Node_in_Linked_List.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Solution](./Linked%20Lists/328_Odd_Even_Linked_List.cpp) |
