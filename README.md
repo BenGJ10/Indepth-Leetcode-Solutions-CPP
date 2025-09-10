@@ -14,6 +14,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](./Arrays/75_Sort_Colors.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](./Arrays/128_Longest_Consecutive_Sequence.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
+| [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Solution](./Linked%20Lists/138_Copy_List_with_Random_Pointer.cpp) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Solution](./Arrays/189_Rotate_Array.cpp) |
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](./Arrays/268_Missing_Number.cpp) |
