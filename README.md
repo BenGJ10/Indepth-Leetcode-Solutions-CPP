@@ -173,6 +173,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Solution](./Linked%20Lists/143_Reorder_List.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](./Linked%20Lists/206_Reverse_Linked_List.cpp) |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Solution](./Linked%20Lists/237_Delete_Node_in_Linked_List.cpp) |
+| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Solution](./Linked%20Lists/328_Odd_Even_Linked_List.cpp) |
 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium | [Solution](./Linked%20Lists/445_Add_Two_Numbers_II.cpp) |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](./Linked%20Lists/876_Middle_of_Linked_List.cpp) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [Solution](./Linked%20Lists/2095_Delete_Middle_Node_of_Linked_List.cpp) |
