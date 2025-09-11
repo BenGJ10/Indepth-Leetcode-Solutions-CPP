@@ -21,6 +21,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [274. H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](./Arrays/274_H_Index.cpp) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](./Arrays/287_Find_Duplicate_Number.cpp) |
 | [324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | [Solution](./Arrays/324_Wiggle_Sort_II.cpp) |
+| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [Solution](./Arrays/414_Third_Maximum_Number.cpp) |
 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Solution](./Arrays/442_Find_all_Duplicates_in_Array.cpp) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Solution](./Arrays/485_Max_Consecutive_Ones.cpp) |
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | [Solution](./Arrays/1752_Array__Sorted_and_Rotated.cpp) |
