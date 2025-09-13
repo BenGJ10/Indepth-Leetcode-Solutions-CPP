@@ -196,6 +196,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](./Binary%20Trees/110_Balanced_Binary_Tree.cpp) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Solution](./Binary%20Trees/111_Minimum_Depth_of_Binary_Tree.cpp) |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Solution](./Binary%20Trees/124_Max_Path_Sum.cpp) |
+| [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Solution](./Binary%20Trees/129_Sum_Root_To_Leaf_Numbers.cpp) |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Solution](./Binary%20Trees/144_Binary_Tree_Preorder_Traversal.cpp) |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | [Solution](./Binary%20Trees/145_Binary_Tree_Postorder_Traversal.cpp) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Solution](./Binary%20Trees/543_Diameter_of_Binary_Tree.cpp) |
